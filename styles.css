@@ -1,0 +1,11 @@
+fieldset {
+    background-color: #EEEEEE;
+    border: none;
+  }
+  legend {
+    background-color: #FFCCCB;
+    color: #8B0000;
+    padding: 5px 10px;
+    width: 100%;
+    font-size: medium;
+  }
